@@ -14,7 +14,7 @@ chat_id = os.environ.get('CHAT_ID')
 telegram_token = os.environ.get('TELEGRAM_BOT_TOKEN')
 
 # 👇 Channel Name Updated for New Channel 👇
-channel_name = "The Influence Game" 
+channel_name = "Mental Chessboard®" 
 
 print(f"DEBUG: Processing {len(scenes_data)} scenes async...")
 
